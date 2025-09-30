@@ -12,6 +12,9 @@ DROP TABLE GENERO CASCADE CONSTRAINTS;
 DROP TABLE TITULO CASCADE CONSTRAINTS;
 DROP TABLE IDIOMA CASCADE CONSTRAINTS;
 
+DROP SEQUENCE seq_comuna;
+DROP SEQUENCE seq_compania;
+
 -- ===============================
 -- CREACIÓN DE TABLAS
 -- ===============================
